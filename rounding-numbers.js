@@ -1,4 +1,3 @@
-var 'roundUp' = (1.5);
-Math.round('roundUp');
-var 'rounded' = 'roundUp';
-console.log('roundUp');
+var roundUp =(1.5);
+var rounded = Math.round(roundUp);
+console.log(rounded);
